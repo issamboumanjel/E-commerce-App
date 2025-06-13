@@ -1,6 +1,6 @@
  import { useContext, useEffect, useState } from "react"
  import { ShopContext } from "../context/ShopContext"
-import Title from "./title.jsx";
+import Title from "./Title.jsx";
 import ProductItem from './ProductItem';
 
 const BestSeller = () => {
@@ -36,4 +36,4 @@ const BestSeller = () => {
 
 export default BestSeller
 
-// D9I9A 1:35 YALLAH ANDBA F "OUR POLICY" COMPONENT
+
