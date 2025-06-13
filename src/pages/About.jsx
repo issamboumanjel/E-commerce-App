@@ -1,5 +1,5 @@
 import { assets } from "../assets/assets"
-import Title from "../components/title"
+import Title from "../components/Title"
 import NewletterBox from "../components/NewsletterBox"
 
 const About = () => {
